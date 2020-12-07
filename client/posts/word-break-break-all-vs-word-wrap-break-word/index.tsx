@@ -71,7 +71,7 @@ If each line can contains a less number of characters, then \`break-word\` will 
     To prevent this behavior, HTML5 provides the \`<wbr>\` element. It stands for _Word Break Opportunity_, and is used to specify the 
     positions that a line break would be created.
 
-    Getting back to the example above. If we use \`<wbr>\` elements right before each path separator (\`/\`) as follow:
+    Getting back to the example above. If we use \`<wbr>\` elements right before each path separator (\`/\`) as follows:
 
     ~~~ html
     Copy your file to the folder:
